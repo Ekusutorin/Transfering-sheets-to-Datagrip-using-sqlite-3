@@ -15,7 +15,7 @@ You have been getting errors most likely, so what you want to do is open up a ne
 * Once you've done that, you are going to be in the data sources and drivers window. Name the sqlite file whatever you want on the top where it says "Name:"
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/77177531/147793867-ca59b336-bf0d-419b-8cc3-ff9e9ccadd37.png">
 
-* Then aorund the middle of the data sources and drivers window you will see a file section with the "identifier.sqlite" name on it , go the the three lines on the left to it, choose the .csv or .tvs file that you had downloaded from execl or sheets, or any other program along the lines of that. 
+* Then aorund the middle of the data sources and drivers window you will see a file section with the "identifier.sqlite" name on it , go the the three lines on the right of it, choose the .csv or .tvs file that you had downloaded from execl or sheets, or any other program along the lines of that. 
 <img width="1440" alt="Screen Shot 2021-12-30 at 6 18 48 PM" src="https://user-images.githubusercontent.com/77177531/147794109-0975ca0e-a405-485b-a352-04e730833304.png">
 
 * search your file on your computer and once you find it just open it, then just import into datagrip, then press apply and ok on the bottom right of the data sources and drivers window
