@@ -15,13 +15,13 @@ You have been getting errors most likely, so what you want to do is open up a ne
 * Once you've done that, you are going to be in the data sources and drivers window. Name the sqlite file whatever you want on the top where it says "Name:"
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/77177531/147793867-ca59b336-bf0d-419b-8cc3-ff9e9ccadd37.png">
 
-* Then aorund the middle of the data sources and drivers window you will see a file section with the "identifier.sqlite" name on it , go the the three lines on the right of it, choose the .csv or .tvs file that you had downloaded from execl or sheets, or any other program along the lines of that. 
+* Then aorund the middle of the data sources and drivers window you will see a file section with the "identifier.sqlite" name on it , go to the three lines on the right of it, choose the .csv or .tvs file that you had downloaded from excel or sheets, or any other program along the lines of that. 
 <img width="1440" alt="Screen Shot 2021-12-30 at 6 18 48 PM" src="https://user-images.githubusercontent.com/77177531/147794109-0975ca0e-a405-485b-a352-04e730833304.png">
 
-* search your file on your computer and once you find it just open it, then just import into datagrip, then press apply and ok on the bottom right of the data sources and drivers window
+* Search your file on your computer and once you find it just open it, then just import into datagrip, then press apply and ok on the bottom right of the data sources and drivers window
 <img width="1440" alt="Screen Shot 2021-12-30 at 6 24 24 PM" src="https://user-images.githubusercontent.com/77177531/147794143-02494992-7172-426a-bf1a-a12f6d4846c0.png">
 
-* after that the .csv or .tsv file should be in the database explorer, if everything goes right you shouldn't get a yellow warning notification from datagrip on the bottom right of your screen saying that the file isnt a database file. 
+* After that the .csv or .tsv file should be in the database explorer, if everything goes right you shouldn't get a yellow warning notification from datagrip on the bottom right of your screen saying that the file isnt a database file. 
 * if that does happen, refactor the .tsv to .csv. , that should do the trick
 * after that once the file is completely on the IDE, you have to go to database scripts, its on the top right, left of the green triangle (the Run icon), click on it and add a config / or edit 
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/77177531/147794162-ca95028a-beac-4784-be32-2a556a195d5d.png">
@@ -30,10 +30,11 @@ You have been getting errors most likely, so what you want to do is open up a ne
 *  for the target data source/schema, that plus sign sign on the top left , click it
 <img width="1440" alt="Screen Shot 2021-12-30 at 6 26 03 PM" src="https://user-images.githubusercontent.com/77177531/147794190-5127480b-7041-4871-90ba-ca2ffbad513f.png">
 
-*  you'll see the file you are running, select it, then click on main or whatever your database is named , and hit enter, 
-*  then for the execute file
-*  also click the top left plus and add the .csv or .tsv that you added, and then import it on the execute section, after that hit apply and ok
+*  You'll see the file you are running, select it, then click on main or whatever your database is named , and hit enter, 
+*  Then for the executing file
+*  Also click the top left plus and add the .csv or .tsv that you added, and then import it on the execute section, after that hit apply and ok
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/77177531/147794234-05185850-6839-46d6-979f-40291e4400f0.png">
 
 * Yup it was that simple, hopefully this made sense, and it got you the results you wanted, if not and you are having issues then please dont refrain from emailing me, ill see if I can help you, you can access my email from my github profile
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/77177531/147794454-901fd0c6-45a8-4ec4-afd8-e631b46c1a51.png">
 
