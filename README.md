@@ -8,7 +8,7 @@ Ok so I dont want to waste your time as much as I wouldnt want you wasting mine 
 
 You have been getting errors most likely, so what you want to do is open up a new file on datagrip and start fresh
 
-* You are gonna go to datagrip and add a new data source from the plus sign over on the database explorer and add a sqlite source(search for it around the bottom of the page if not in your recents
+* You are gonna go to datagrip and add a new data source from the plus sign over on the database explorer and add a sqlite source(search for it around the bottom of the drop down menu not in your recents
 <img width="1418" alt="image" src="https://user-images.githubusercontent.com/77177531/147793762-b7f47fb9-b0b9-4d11-8401-ad27a7ac72a5.png">
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/77177531/147793803-c40b18ca-24b2-48f0-885d-805d322ce567.png">
 
