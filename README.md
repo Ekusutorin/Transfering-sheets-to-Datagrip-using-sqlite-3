@@ -1,6 +1,6 @@
 # Transfering-sheets-to-Datagrip-using-sqlite-3
 ##### Took me two days to find this out, hopefully this can help you transfer your google sheet files onto DG and run sql scripts  
-Ok so I dont to waste your time as much I wouldnt want you wasting mine in a situation where you need the results you want quickly
+Ok so I dont want to waste your time as much as I wouldnt want you wasting mine in a situation where you need the results you want quickly
 
 ###### Lets make this snapy
 
